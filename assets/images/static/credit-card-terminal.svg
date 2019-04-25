@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.798" height="26.532" viewBox="0 0 39.798 26.532">
+  <g id="credit-card_1_" data-name="credit-card (1)" transform="translate(0 -85.333)">
+    <g id="Group_51" data-name="Group 51" transform="translate(0 85.333)">
+      <g id="Group_50" data-name="Group 50" transform="translate(0 0)">
+        <path id="Path_77" data-name="Path 77" d="M35.652,85.333H4.146A4.151,4.151,0,0,0,0,89.479v18.241a4.151,4.151,0,0,0,4.146,4.146H35.652a4.151,4.151,0,0,0,4.146-4.146V89.479A4.151,4.151,0,0,0,35.652,85.333Zm2.487,22.386a2.49,2.49,0,0,1-2.487,2.487H4.146a2.49,2.49,0,0,1-2.487-2.487V89.479a2.49,2.49,0,0,1,2.487-2.487H35.652a2.49,2.49,0,0,1,2.487,2.487v18.24Z" transform="translate(0 -85.333)" fill="#777"/>
+      </g>
+    </g>
+    <g id="Group_53" data-name="Group 53" transform="translate(0 90.308)">
+      <g id="Group_52" data-name="Group 52" transform="translate(0 0)">
+        <path id="Path_78" data-name="Path 78" d="M38.968,149.333H.829a.829.829,0,0,0-.829.829v4.975a.829.829,0,0,0,.829.829H38.968a.829.829,0,0,0,.829-.829v-4.975A.83.83,0,0,0,38.968,149.333Zm-.829,4.975H1.658v-3.316H38.139v3.316Z" transform="translate(0 -149.333)" fill="#777"/>
+      </g>
+    </g>
+    <g id="Group_55" data-name="Group 55" transform="translate(4.975 101.915)">
+      <g id="Group_54" data-name="Group 54" transform="translate(0 0)">
+        <path id="Path_79" data-name="Path 79" d="M74.779,298.667H64.829a.829.829,0,1,0,0,1.658h9.949a.829.829,0,1,0,0-1.658Z" transform="translate(-64 -298.667)" fill="#777"/>
+      </g>
+    </g>
+    <g id="Group_57" data-name="Group 57" transform="translate(4.975 105.232)">
+      <g id="Group_56" data-name="Group 56" transform="translate(0 0)">
+        <path id="Path_80" data-name="Path 80" d="M74.779,341.333H64.829a.829.829,0,1,0,0,1.658h9.949a.829.829,0,1,0,0-1.658Z" transform="translate(-64 -341.333)" fill="#777"/>
+      </g>
+    </g>
+    <g id="Group_59" data-name="Group 59" transform="translate(28.19 100.257)">
+      <g id="Group_58" data-name="Group 58" transform="translate(0 0)">
+        <path id="Path_81" data-name="Path 81" d="M366.813,277.333h-1.658a2.49,2.49,0,0,0-2.487,2.487v1.658a2.49,2.49,0,0,0,2.487,2.487h1.658a2.49,2.49,0,0,0,2.487-2.487V279.82A2.49,2.49,0,0,0,366.813,277.333Zm.829,4.146a.829.829,0,0,1-.829.829h-1.658a.829.829,0,0,1-.829-.829V279.82a.829.829,0,0,1,.829-.829h1.658a.829.829,0,0,1,.829.829Z" transform="translate(-362.667 -277.333)" fill="#777"/>
+      </g>
+    </g>
+  </g>
+</svg>
