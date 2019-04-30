@@ -598,7 +598,7 @@ a.scroll_down:hover {
 	font-size: 15px;
 	padding-bottom: 25px;
 }
-.footer_list a {
+.footer_list a.num {
 	color: #6E6E6E;
 	font-size: 13px;
 	padding: 5px 0;
