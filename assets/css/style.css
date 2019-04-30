@@ -603,6 +603,12 @@ a.scroll_down:hover {
 	font-size: 13px;
 	padding: 5px 0;
 }
+.footer_list .contact_num a.num {
+	color: #6E6E6E;
+}
+.footer_list .contact_num a.num:hover {
+	color: #D36060;
+}
 .footer_list a:hover {
 	color: #D36060;
 	text-decoration: underline;
