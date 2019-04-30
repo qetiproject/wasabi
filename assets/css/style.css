@@ -315,27 +315,17 @@ nav {
 	justify-content: space-between;
 	align-items: center;
 }
-a.scroll_down {
-	color: rgba(255,255,255,.53);
-}
 .contact_num {
 	width: 146px;
 }
 .contact_num a.phone {
 	color: #000;
 }
-a.num {
-	color: #CBCBCB;
-	font-size: 17px;
-}
 a.num:hover {
 	color: #000;
 }
 .contact_num li a:hover {
 	text-decoration: none;
-}
-.num p {
-	font-size: 13px;
 }
 .contact_num .icon-phone-receiver {
 	background: #99C758;
@@ -963,8 +953,6 @@ textarea {
 	padding: 10px 0;
 }
 .about_img {
-	width: 320px;
-	height: auto;
 	margin: 10px auto;
 }
 .about_img img {
@@ -1110,6 +1098,14 @@ textarea {
 		position: absolute;
 		bottom: -25px;
 	}
+	a.scroll_down {
+		color: rgba(255,255,255,.53);
+		font-size: 13px;
+	}
+	a.num {
+		color: #CBCBCB;
+		font-size: 13px;
+	}
 	/*main_section end*/
 	/*product_wrapper*/
 	.product_wrapper {
@@ -1218,6 +1214,9 @@ textarea {
 		justify-content: space-between;
 		align-items: center;
 		z-index: 1;
+	}
+	a.scroll_down, a.num {
+		font-size: 15px;
 	}
 	/*header end*/
 	/*product_wrapper*/
